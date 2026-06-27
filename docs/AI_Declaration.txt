@@ -1,0 +1,3 @@
+
+- Tweaking the custom keypad UI
+- Cleaning up hardcoded values
